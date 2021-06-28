@@ -64,13 +64,13 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    // alignItems: 'center',
-    // justifyContent: 'center',
   },
   content: {
     padding: 40,
+    flex: 1,
   },
   list: {
+    flex: 1,
     marginTop: 20,
   },
 })
